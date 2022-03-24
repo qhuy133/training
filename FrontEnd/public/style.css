@@ -1,0 +1,28 @@
+html {
+  color: #070a10;
+  background-color: #ffffff;
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: 'PT Mono', -apple-system, BlinkMacSystemFont, 'Roboto', 'Oxygen', 'Ubuntu',
+    'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+button {
+  user-select: none;
+}
+
+* {
+  outline: none;
+  box-sizing: border-box;
+}
